@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This App can randomly generate tickets / let user manually pick their own tickets, and draw numbers sequentially.
 
 ## Available Scripts
 
