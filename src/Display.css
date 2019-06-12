@@ -1,0 +1,18 @@
+.title {
+  color: red;
+  padding-top: 80px;
+  margin-bottom: 32px;
+}
+.num {
+  margin-right: 24px;
+  font-size: 20px;
+  color: grey;
+}
+.match {
+  margin-right: 24px;
+  font-size: 20px;
+  color: red;
+}
+.empty {
+  min-height: 20px;
+}

@@ -1,0 +1,23 @@
+.primary {
+  padding-top: 32px;
+  color: orange;
+}
+
+.fdigit {
+font-size: 125%;
+margin-bottom: 30px;
+width: 100px;
+}
+
+.halfrow {
+  width: 50%;
+}
+
+.submit {
+  height: 35px;
+  width: 150px;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-left: 100px;
+  margin-top: 32px;
+}
